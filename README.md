@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ### Hi there! 😁
 
-My name is Lucas Albuquerque Pires from Brazil (🇧🇷). I'm passionate about open source projects, so I've created some projects as [Front-end BR](https://github.com/frontendbr) and I've always loved to produce a lot of content during my career.
+My name is Lucas Albuquerque Pires from Brazil (🇧🇷). I'm passionate about open source projects, so I've created some projects as [Front-end BR](https://github.com/LucasPires50) and I've always loved to produce a lot of content during my career.
 
 In my free time I like to play (and watch) soccer (⚽️), to watch movies (🎞️) and series (📺), to read books (📚), to listen to music (🎵).
 
